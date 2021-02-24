@@ -1,0 +1,15 @@
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.csprojAssemblyReference.cache
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.Properties.Resources.resources
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.csproj.GenerateResource.cache
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.csproj.CoreCompileInputs.cache
+D:\OOP\Travel_agency\bin\Debug\Travel_agency.exe.config
+D:\OOP\Travel_agency\bin\Debug\Travel_agency.exe
+D:\OOP\Travel_agency\bin\Debug\Travel_agency.pdb
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.exe
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.pdb
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.Menu.resources
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.interview.resources
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.Login.resources
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.Tours.resources
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.Data.resources
+D:\OOP\Travel_agency\obj\Debug\Travel_agency.Information.resources
